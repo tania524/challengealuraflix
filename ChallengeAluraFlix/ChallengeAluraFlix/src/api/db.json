@@ -1,0 +1,88 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "titulo": "Banco de datos MySQL",
+      "descripcion": "En esta serie de videos en alianza con Oracle, explicaremos y exploraremos las herramientas de Oracle. En este episodio recibimos a Narciso Junior, quien se desempeña como LATAM Cloud Evangelist en la empresa.",
+      "imagen": "https://i.ytimg.com/vi/8J0AoPZMVxA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUArYg1JDUH2sokYNKsrzDINQ2VQ",
+      "video": "https://www.youtube.com/watch?v=8J0AoPZMVxA&ab_channel=AluraLatam",
+      "categoria": "Backend"
+    },
+    {
+      "id": 2,
+      "titulo": "Accesibilidad Web",
+      "descripcion": "En este Alura+, la instructora Barbara dos Santos y nuestra Scuba Mariana Costa, se juntan para hablar de un tema de extrema importancia para cualquier desarrollador: Accesibilidad Web.",
+      "imagen": "https://i.ytimg.com/vi/ngMOsuZL-XE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtvexnpgzDc4-AlQJGDPeM1LQs2A",
+      "video": "https://www.youtube.com/watch?v=ngMOsuZL-XE&ab_channel=AluraLatam",
+      "categoria": "Frontend"
+    },
+    {
+      "id": 4,
+      "titulo": "¡Domina CSS Flexbox con FlexboxFroggy!",
+      "descripcion": "¿Conoces el término CSS? ¿Sabes que és? En este alura.tips Gabi A entrevista la instructora front end Barbara y aprende sobre el mundo del CSS de una forma muy divertida.",
+      "imagen": "https://i.ytimg.com/vi/MXPhyN5t0uQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc4vIbmhlI9zU6noB7oy6kLFaq9g",
+      "video": "https://www.youtube.com/watch?v=MXPhyN5t0uQ&ab_channel=AluraLatam",
+      "categoria": "Frontend"
+    },
+    {
+      "id": 5,
+      "titulo": "Back-End en el Desarrollo Web",
+      "descripcion": "Explorando el poder del Back-End en el Desarrollo Web.",
+      "imagen": "https://i.ytimg.com/vi/Z024LSCMqFk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-0yHQQfZ3Ga0vTHNGOv1N3MKHIw",
+      "video": "https://www.youtube.com/watch?v=Z024LSCMqFk&ab_channel=AluraLatam",
+      "categoria": "Backend"
+    },
+    {
+      "id": 6,
+      "titulo": "¿Qué es SQL y NoSQL?",
+      "descripcion": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo.",
+      "imagen": "https://i.ytimg.com/vi/cLLKVd5CNLc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoAq6RVkWNnROKxhWbny5h0GbMwA",
+      "video": "https://www.youtube.com/watch?v=cLLKVd5CNLc&t=1s&ab_channel=AluraLatam",
+      "categoria": "Backend"
+    },
+    {
+      "id": 7,
+      "titulo": "Cuándo usar let, var y const?",
+      "descripcion": "¿A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript.",
+      "imagen": "https://i.ytimg.com/vi/PztCEdIJITY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2qK3Zjt_Y4Di7_0Hv5sJjrvkosQ",
+      "video": "https://www.youtube.com/watch?v=PztCEdIJITY&t=417s&ab_channel=AluraLatam",
+      "categoria": "Backend"
+    },
+    {
+      "id": 8,
+      "titulo": "¿Qué es JavaScript?",
+      "descripcion": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips.",
+      "imagen": "https://i.ytimg.com/vi/GJfOSoaXk4s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKpxz6vMwTw26HQyprrrwHFadQ2g",
+      "video": "https://www.youtube.com/watch?v=GJfOSoaXk4s&ab_channel=AluraLatam",
+      "categoria": "Frontend"
+    },
+    {
+      "id": 9,
+      "titulo": "Equipo Front End",
+      "descripcion": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología?",
+      "imagen": "https://i.ytimg.com/vi/rpvrLaBQwgg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJK_72imvkPUftCR6i52lfmAwR2A",
+      "video": "https://www.youtube.com/watch?v=rpvrLaBQwgg&ab_channel=AluraLatam",
+      "categoria": "Frontend"
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Frontend",
+      "descripcion": "Desarrollo de la interfaz de usuario y la interacción del usuario en un sitio web.",
+      "color": "#3498db"
+    },
+    {
+      "id": 2,
+      "titulo": "Backend",
+      "descripcion": "Desarrollo de la lógica y la funcionalidad detrás de un sitio web.",
+      "color": "#2ecc71"
+    },
+    {
+      "id": 3,
+      "titulo": "innovación y gestión",
+      "descripcion": "Implementación de estrategias y procesos para fomentar la creatividad y eficiencia en una organización, así como el desarrollo tanto del frontend como del backend de un sitio web.",
+      "color": "#e74c3c"
+    }
+  ]
+}
